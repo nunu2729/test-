@@ -1,3 +1,3 @@
 from django.db import models
 
-# Create your models nunu.
+# Create your models dani.
